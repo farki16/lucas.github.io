@@ -16,7 +16,7 @@
         <hr>
         <p>
             <big>sejam bem vindos</big><br>
-            <b>negros</b><br>
+            <b>Sou lindo!</b><br>
             <img src="https://i.pinimg.com/236x/3e/cb/79/3ecb794b7edac9124b79e6de0519df17.jpg" height="500px">
            <aside>
             <ol>
